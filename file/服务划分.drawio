@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T02:07:47.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HYwyiqMOihlWocAaPq7V" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T02:24:18.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PanTEXKxVKDg_xWL4mA0" version="20.2.7" type="github">
   <diagram id="LmM8VLQaYReTrYvZlCVD" name="第 1 页">
     <mxGraphModel dx="976" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="580" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-1" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-4" value="基础服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-6" value="聚合" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="255" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-7" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-8" value="通知管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-9" value="告警记录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-11" value="巡检管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-12" value="工单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-13" value="报表分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
