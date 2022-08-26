@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T03:48:01.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hNRSWggpi_m1Ib1E1_jQ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T03:50:44.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4OuAlgpi72G1fR_Yc6Dr" version="20.2.7" type="github">
   <diagram id="LmM8VLQaYReTrYvZlCVD" name="第 1 页">
     <mxGraphModel dx="2043" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,11 +213,11 @@
         <mxCell id="2rbDTs74KEZ92r4X_NFU-87" value="告警处置流程" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-720" y="-415" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2rbDTs74KEZ92r4X_NFU-88" value="APP、短信、电话通知监控员" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="-340" width="70" height="110" as="geometry" />
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-88" value="APP、短信通知，延迟电话通知监控员" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-340" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2rbDTs74KEZ92r4X_NFU-89" value="APP、短信、电话通知巡检员" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="-152.5" width="70" height="110" as="geometry" />
+        <mxCell id="2rbDTs74KEZ92r4X_NFU-89" value="APP、短信通知，延迟电话通知巡检员" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-152.5" width="70" height="122.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
